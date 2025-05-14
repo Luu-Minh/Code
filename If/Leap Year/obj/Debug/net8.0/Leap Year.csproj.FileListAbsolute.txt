@@ -1,0 +1,15 @@
+D:\CodeGym\If\Leap Year\bin\Debug\net8.0\Leap Year.exe
+D:\CodeGym\If\Leap Year\bin\Debug\net8.0\Leap Year.deps.json
+D:\CodeGym\If\Leap Year\bin\Debug\net8.0\Leap Year.runtimeconfig.json
+D:\CodeGym\If\Leap Year\bin\Debug\net8.0\Leap Year.dll
+D:\CodeGym\If\Leap Year\bin\Debug\net8.0\Leap Year.pdb
+D:\CodeGym\If\Leap Year\obj\Debug\net8.0\Leap Year.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeGym\If\Leap Year\obj\Debug\net8.0\Leap Year.AssemblyInfoInputs.cache
+D:\CodeGym\If\Leap Year\obj\Debug\net8.0\Leap Year.AssemblyInfo.cs
+D:\CodeGym\If\Leap Year\obj\Debug\net8.0\Leap Year.csproj.CoreCompileInputs.cache
+D:\CodeGym\If\Leap Year\obj\Debug\net8.0\Leap Year.sourcelink.json
+D:\CodeGym\If\Leap Year\obj\Debug\net8.0\Leap Year.dll
+D:\CodeGym\If\Leap Year\obj\Debug\net8.0\refint\Leap Year.dll
+D:\CodeGym\If\Leap Year\obj\Debug\net8.0\Leap Year.pdb
+D:\CodeGym\If\Leap Year\obj\Debug\net8.0\Leap Year.genruntimeconfig.cache
+D:\CodeGym\If\Leap Year\obj\Debug\net8.0\ref\Leap Year.dll
