@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interest", "Interest\Interest.csproj", "{37E418EC-52F3-4646-BAB3-DD24C39042AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape", "Shape\Shape.csproj", "{4A3567B1-7655-4EAE-9519-C0A228AFDF3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNum", "PrimeNum\PrimeNum.csproj", "{7571EA2B-F88B-44B6-8EAF-4C0BB6B785FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37E418EC-52F3-4646-BAB3-DD24C39042AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E418EC-52F3-4646-BAB3-DD24C39042AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E418EC-52F3-4646-BAB3-DD24C39042AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E418EC-52F3-4646-BAB3-DD24C39042AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A3567B1-7655-4EAE-9519-C0A228AFDF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3567B1-7655-4EAE-9519-C0A228AFDF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3567B1-7655-4EAE-9519-C0A228AFDF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3567B1-7655-4EAE-9519-C0A228AFDF3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7571EA2B-F88B-44B6-8EAF-4C0BB6B785FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7571EA2B-F88B-44B6-8EAF-4C0BB6B785FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7571EA2B-F88B-44B6-8EAF-4C0BB6B785FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7571EA2B-F88B-44B6-8EAF-4C0BB6B785FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

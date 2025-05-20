@@ -1,0 +1,15 @@
+D:\CodeGym\Loop(1)\PrimeNum\bin\Debug\net8.0\PrimeNum.exe
+D:\CodeGym\Loop(1)\PrimeNum\bin\Debug\net8.0\PrimeNum.deps.json
+D:\CodeGym\Loop(1)\PrimeNum\bin\Debug\net8.0\PrimeNum.runtimeconfig.json
+D:\CodeGym\Loop(1)\PrimeNum\bin\Debug\net8.0\PrimeNum.dll
+D:\CodeGym\Loop(1)\PrimeNum\bin\Debug\net8.0\PrimeNum.pdb
+D:\CodeGym\Loop(1)\PrimeNum\obj\Debug\net8.0\PrimeNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeGym\Loop(1)\PrimeNum\obj\Debug\net8.0\PrimeNum.AssemblyInfoInputs.cache
+D:\CodeGym\Loop(1)\PrimeNum\obj\Debug\net8.0\PrimeNum.AssemblyInfo.cs
+D:\CodeGym\Loop(1)\PrimeNum\obj\Debug\net8.0\PrimeNum.csproj.CoreCompileInputs.cache
+D:\CodeGym\Loop(1)\PrimeNum\obj\Debug\net8.0\PrimeNum.sourcelink.json
+D:\CodeGym\Loop(1)\PrimeNum\obj\Debug\net8.0\PrimeNum.dll
+D:\CodeGym\Loop(1)\PrimeNum\obj\Debug\net8.0\refint\PrimeNum.dll
+D:\CodeGym\Loop(1)\PrimeNum\obj\Debug\net8.0\PrimeNum.pdb
+D:\CodeGym\Loop(1)\PrimeNum\obj\Debug\net8.0\PrimeNum.genruntimeconfig.cache
+D:\CodeGym\Loop(1)\PrimeNum\obj\Debug\net8.0\ref\PrimeNum.dll
